@@ -1,0 +1,6 @@
+node_modules
+# for wasm
+**/pkg
+**/target
+**/*.rs.bk
+**/Cargo.lock
